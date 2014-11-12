@@ -11,10 +11,10 @@
  */
 
 // -- Database configs
-define("DB_HOST", "localhost");
-define("DB_USER", "root");
+define("DB_HOST", "");
+define("DB_USER", "");
 define("DB_PASS", "");
-define("DB_NAME", "gcm");
+define("DB_NAME", "");
 
 // -- Google API Key / Token for server
-define("GOOGLE_API_TOKEN", "AIzaSyDuZBQlvlFhKgpADu9f0ICM5KfwftJwiTs");
+define("GOOGLE_API_TOKEN", "Add GOOGLE API TOKEN HERE");
